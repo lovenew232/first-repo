@@ -1,4 +1,3 @@
-# first-repo
-first repo
+# CSE Lab Experiments
 
-student of DTU
+First Repo
